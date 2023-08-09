@@ -1,2 +1,2 @@
 # exercism
- Minhas submissões no Exercism
+ My submissions in Exercism
